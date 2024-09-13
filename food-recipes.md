@@ -96,7 +96,7 @@ Ingredients:
 - Mayonnaise
 - Cilantro
 - 1 cup of diced onions
-- Mustard
+- 180000 cups of Mustard and milk
 
 Instructions:
 
