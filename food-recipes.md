@@ -96,7 +96,7 @@ Ingredients:
 - Mayonnaise
 - Cilantro
 - 1 cup of diced onions
-- Mustard
+- Mustard and ketchup
 
 Instructions:
 
