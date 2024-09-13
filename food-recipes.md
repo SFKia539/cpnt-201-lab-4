@@ -94,6 +94,8 @@ Ingredients:
 - Tomato
 - Mayonnaise
 - Cilantro
+- 1 cup of diced onions
+- Mustard
 
 Instructions:
 
