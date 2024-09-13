@@ -10,6 +10,7 @@
   - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
   - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+  - [Puff puff](#puff-puff)
   - [Banana bread](#banana-bread)
 
 ## Appetizers
@@ -109,6 +110,8 @@ Instructions:
 ## Desserts
 
 ### Chocolate Chip Cookies
+
+### Puff puff
 
 Ingredients:
 
